@@ -1,33 +1,103 @@
 {
-  "projects": [
+  "restaurants": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "MINE / WINE",
+      "cuisine": "Italian",
+      "description": "Authentic Italian cuisine with a modern twist. Enjoy a variety of dishes including Tortelli with Burrata and Truffle, Vitello Tonnato, and house Prosecco.",
+      "address": "Meinekestraße 10, 10719 Berlin",
+      "openingHours": "Monday – Sunday: 17:30–23:00",
+      "website": "https://mine-wine.com"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "893 Ryōtei",
+      "cuisine": "Asian Fusion",
+      "description": "Experience fine dining with meat and fish dishes. Enjoy a relaxed atmosphere and top-notch interior design.",
+      "address": "Kantstraße 135, 10623 Berlin",
+      "openingHours": "Tuesday – Saturday: 18:00–23:00",
+      "website": "https://893-ryotei.com"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Knödelwirtschaft",
+      "cuisine": "German",
+      "description": "Indulge in a variety of dumplings including Bacon, Spinach-Ricotta, and Vegan Tofu-Mushroom, served with salad. Save room for dessert – Grießknödel with Apricot Compote awaits!",
+      "address": "Fuldastraße 33, 12045 Berlin",
+      "openingHours": "Monday – Friday: 17:00–23:00, Saturday – Sunday: 12:00–23:00",
+      "website": "https://knoedelwirtschaft.de"
+    },
+    {
+      "id": 4,
+      "name": "Heimweh",
+      "cuisine": "International",
+      "description": "Enjoy giant Kumpir loaded with various toppings including couscous, grilled vegetables, and homemade sauces. Options available for both meat lovers and vegans.",
+      "address": "Skalitzer Str. 100, 10997 Berlin",
+      "openingHours": "Monday – Sunday: 12:00–22:00",
+      "website": "https://heimweh-berlin.com"
+    },
+    {
+      "id": 5,
+      "name": "Il Ritrovo",
+      "cuisine": "Italian",
+      "description": "Discover authentic Italian pizzas served in a lively atmosphere. Friendly service and generous portions await you.",
+      "address": "Gabriel-Max-Straße 2, 10245 Berlin",
+      "openingHours": "Monday – Sunday: 12:00–22:00",
+      "website": "https://ilritrovo-berlin.com"
+    },
+    {
+      "id": 6,
+      "name": "Nobelhart & Schmutzig",
+      "cuisine": "German",
+      "description": "Experience fine dining with a focus on local and seasonal ingredients. Enjoy a 6-course menu with excellent wine pairings.",
+      "address": "Friedrichstraße 218, 10969 Berlin",
+      "openingHours": "Tuesday – Saturday: 18:30–22:30",
+      "website": "https://nobelhartundschmutzig.com"
+    },
+    {
+      "id": 7,
+      "name": "Kink Bar & Restaurant",
+      "cuisine": "Modern European",
+      "description": "Enjoy delicious food and drinks in a stylish setting. Seasonal and regional dishes await you on the menu.",
+      "address": "Schönhauser Allee 176, 10119 Berlin",
+      "openingHours": "Sunday – Thursday: 18:00–01:00, Friday – Saturday: 18:00–02:30",
+      "website": "https://kink-berlin.com"
+    },
+    {
+      "id": 8,
+      "name": "Hallmann & Klee",
+      "cuisine": "German",
+      "description": "Indulge in honest good food made with high-quality ingredients sourced from local producers. Monthly changing menus offer a variety of options.",
+      "address": "Böhmische Straße 13, 12055 Berlin",
+      "openingHours": "Tuesday – Saturday: 18:00 onwards",
+      "website": "https://hallmannundklee.de"
+    },
+    {
+      "id": 9,
+      "name": "PeterPaul",
+      "cuisine": "German",
+      "description": "Experience German classics in tapas size. Enjoy dishes like Königsberger Klopse, Fish Fingers, and Vegan Dumplings.",
+      "address": "Torstraße 99, 10119 Berlin",
+      "openingHours": "Monday – Sunday: 18:00–01:00",
+      "website": "https://peterpaul-berlin.com"
+    },
+    {
+      "id": 10,
+      "name": "Goldies",
+      "cuisine": "International",
+      "description": "Savor delicious fries with various toppings including Peking Duck, Roast Beef, and Sicilian Caponata. Chicken Bites are also available.",
+      "address": "Oranienstraße 6, 10997 Berlin",
+      "openingHours": "Sunday – Thursday: 12:30–22:00, Friday – Saturday: 12:30–01:00",
+      "website": "https://goldies-berlin.com"
+    },
+    {
+      "id": 11,
+      "name": "Made in China",
+      "cuisine": "Chinese",
+      "description": "Discover traditional Chinese dim sum and other specialties in a unique setting. Enjoy authentic flavors and a welcoming atmosphere.",
+      "address": "Schönhauser Allee 10-11, 10119 Berlin",
+      "openingHours": "Monday – Sunday: 12:00–00:00",
+      "website": "https://madeinchina-berlin.com"
     }
   ]
 }
