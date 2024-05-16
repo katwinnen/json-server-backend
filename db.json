@@ -7,7 +7,10 @@
       "description": "Authentic Italian cuisine with a modern twist. Enjoy a variety of dishes including Tortelli with Burrata and Truffle, Vitello Tonnato, and house Prosecco.",
       "address": "Meinekestraße 10, 10719 Berlin",
       "openingHours": "Monday – Sunday: 17:30–23:00",
-      "website": "https://mine-wine.com"
+      "website": "https://mine-wine.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2017/11/mine-daliah-hoffmann-17.jpg",
+      "priceRange": "€€",
+      "outdoorOptions": "yes"
     },
     {
       "id": 2,
@@ -16,7 +19,10 @@
       "description": "Experience fine dining with meat and fish dishes. Enjoy a relaxed atmosphere and top-notch interior design.",
       "address": "Kantstraße 135, 10623 Berlin",
       "openingHours": "Tuesday – Saturday: 18:00–23:00",
-      "website": "https://893-ryotei.com"
+      "website": "https://893-ryotei.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2016/07/893-ryotei-collage.png",
+      "priceRange": "€€€",
+      "outdoorOptions": "no"
     },
     {
       "id": 3,
@@ -25,7 +31,10 @@
       "description": "Indulge in a variety of dumplings including Bacon, Spinach-Ricotta, and Vegan Tofu-Mushroom, served with salad. Save room for dessert – Grießknödel with Apricot Compote awaits!",
       "address": "Fuldastraße 33, 12045 Berlin",
       "openingHours": "Monday – Friday: 17:00–23:00, Saturday – Sunday: 12:00–23:00",
-      "website": "https://knoedelwirtschaft.de"
+      "website": "https://knoedelwirtschaft.de",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2018/02/knoedelwirtschaft-collage-wiebke.png",
+      "priceRange": "€€",
+      "outdoorOptions": "yes"
     },
     {
       "id": 4,
@@ -34,7 +43,10 @@
       "description": "Enjoy giant Kumpir loaded with various toppings including couscous, grilled vegetables, and homemade sauces. Options available for both meat lovers and vegans.",
       "address": "Skalitzer Str. 100, 10997 Berlin",
       "openingHours": "Monday – Sunday: 12:00–22:00",
-      "website": "https://heimweh-berlin.com"
+      "website": "https://heimweh-berlin.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2022/08/heimweh-wiebke.png",
+      "priceRange": "€€",
+      "outdoorOptions": "no"
     },
     {
       "id": 5,
@@ -43,7 +55,10 @@
       "description": "Discover authentic Italian pizzas served in a lively atmosphere. Friendly service and generous portions await you.",
       "address": "Gabriel-Max-Straße 2, 10245 Berlin",
       "openingHours": "Monday – Sunday: 12:00–22:00",
-      "website": "https://ilritrovo-berlin.com"
+      "website": "https://ilritrovo-berlin.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2019/01/pexels-photo-263041.jpeg",
+      "priceRange": "€",
+      "outdoorOptions": "yes"
     },
     {
       "id": 6,
@@ -52,7 +67,10 @@
       "description": "Experience fine dining with a focus on local and seasonal ingredients. Enjoy a 6-course menu with excellent wine pairings.",
       "address": "Friedrichstraße 218, 10969 Berlin",
       "openingHours": "Tuesday – Saturday: 18:30–22:30",
-      "website": "https://nobelhartundschmutzig.com"
+      "website": "https://nobelhartundschmutzig.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2016/10/1-nobelhart-schmutzig-vegetarische-brotzeit.jpeg",
+      "priceRange": "€€€",
+      "outdoorOptions": "no"
     },
     {
       "id": 7,
@@ -61,7 +79,10 @@
       "description": "Enjoy delicious food and drinks in a stylish setting. Seasonal and regional dishes await you on the menu.",
       "address": "Schönhauser Allee 176, 10119 Berlin",
       "openingHours": "Sunday – Thursday: 18:00–01:00, Friday – Saturday: 18:00–02:30",
-      "website": "https://kink-berlin.com"
+      "website": "https://kink-berlin.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2020/07/kink-daliah-hoffmann-09-1.jpg",
+      "priceRange": "€€€",
+      "outdoorOptions": "yes"
     },
     {
       "id": 8,
@@ -70,7 +91,10 @@
       "description": "Indulge in honest good food made with high-quality ingredients sourced from local producers. Monthly changing menus offer a variety of options.",
       "address": "Böhmische Straße 13, 12055 Berlin",
       "openingHours": "Tuesday – Saturday: 18:00 onwards",
-      "website": "https://hallmannundklee.de"
+      "website": "https://hallmannundklee.de",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2019/01/restaurant-691397_1920.jpg",
+      "priceRange": "€€",
+      "outdoorOptions": "yes"
     },
     {
       "id": 9,
@@ -79,7 +103,10 @@
       "description": "Experience German classics in tapas size. Enjoy dishes like Königsberger Klopse, Fish Fingers, and Vegan Dumplings.",
       "address": "Torstraße 99, 10119 Berlin",
       "openingHours": "Monday – Sunday: 18:00–01:00",
-      "website": "https://peterpaul-berlin.com"
+      "website": "https://peterpaul-berlin.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2019/04/peterpaul_food_04_hundertmark.jpg",
+      "priceRange": "€€",
+      "outdoorOptions": "no"
     },
     {
       "id": 10,
@@ -88,7 +115,10 @@
       "description": "Savor delicious fries with various toppings including Peking Duck, Roast Beef, and Sicilian Caponata. Chicken Bites are also available.",
       "address": "Oranienstraße 6, 10997 Berlin",
       "openingHours": "Sunday – Thursday: 12:30–22:00, Friday – Saturday: 12:30–01:00",
-      "website": "https://goldies-berlin.com"
+      "website": "https://goldies-berlin.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2017/05/goldies-collage-pommes-und-crispy-chicken.png",
+      "priceRange": "€",
+      "outdoorOptions": "yes"
     },
     {
       "id": 11,
@@ -97,7 +127,10 @@
       "description": "Discover traditional Chinese dim sum and other specialties in a unique setting. Enjoy authentic flavors and a welcoming atmosphere.",
       "address": "Schönhauser Allee 10-11, 10119 Berlin",
       "openingHours": "Monday – Sunday: 12:00–00:00",
-      "website": "https://madeinchina-berlin.com"
+      "website": "https://madeinchina-berlin.com",
+      "image": "https://mitvergnuegen.com/resizer/images/7b227769647468223a3636382c22686569676874223a3337367d/wp-content/uploads/2018/07/made-in-china-facebook.jpg",
+      "priceRange": "€",
+      "outdoorOptions": "yes"
     }
   ]
 }
